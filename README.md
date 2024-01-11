@@ -1,9 +1,13 @@
 - 👋 Hi, I’m @jeetsh4h
-- 👀 I’m interested in, well a lot of things (this is such a defining statement)
-	- Understanding, and somehow implementing the nuances of programming is definitely key
-		- Therefore the github README page
-- 🌱 I’m currently pursuing a Bachelor's in Computer Science
-- 📫 How to reach me --> using my email address, which conveniently is jeetsh4h@gmail.com
+- 👀 I’m interested in machine learning and back-end development.
+	- Have had wonderful professors for cybersecurity and systems programming,,,
+  		- would love to explore more on both those fronts.
+	- Currently wokring on a personal front-end solution for a simple problem,,,
+   	- which should also help me igure out if I like working with javascript in it's full glory.
+- 🌱 I’m currently pursuing a Bachelor's in Computer Science at FLAME University.
+	- I will be graduating in the year 2025.
+- You can reach me via my [email address](jeetsh4h@gmail.com).
+
 
 <!---
 jeetsh4h/jeetsh4h is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
